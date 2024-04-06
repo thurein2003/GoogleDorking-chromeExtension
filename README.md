@@ -10,7 +10,7 @@ This is a simple tool for searching Google using advanced search operators, also
 1. Open Google Chrome and navigate to `chrome://extensions/`.
 2. Enable Developer mode in the top right corner.
 3. Click on the "Load unpacked" button.
-4. Select the folder containing your project files.
+4. Select the folder containing project files.
 5. The extension should now be added to Chrome. You can access it by clicking on its icon in the toolbar.
 
 ## Usage
