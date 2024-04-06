@@ -158,4 +158,22 @@ var keywords = [
 document.getElementById('searchInput').addEventListener('input', function(event) {
     var inputText = event.target.value.toLowerCase();
     var result = keywords.filter(function(item) {
-        return item.purpose.toLowerCase()
+        return item.purpose.toLowerCase().includes(inputText);
+    });
+
+    var resultTable = document.getElementById('resultsContainer');
+    resultTable.innerHTML = ''; // Clear previous results
+
+    result.forEach(function(item) {
+        var row = document.createElement('tr');
+        var keywordCell = document.createElement('td');
+        var purposeCell = document.createElement('td');
+
+        keywordCell.textContent = item.keyword;
+        purposeCell.textContent = item.purpose;
+
+        row.appendChild(keywordCell);
+        row.appendChild(purposeCell);
+        resultTable.appendChild(row);
+    });
+});
