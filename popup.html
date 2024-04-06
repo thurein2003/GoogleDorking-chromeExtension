@@ -15,4 +15,46 @@
     #searchInput {
       padding: 8px;
       width: 200px;
-      margin-rig
+      margin-right: 10px;
+    }
+    #searchButton {
+      padding: 8px 16px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    table {
+      margin-top: 20px;
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 8px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Google Dorking Tool</h1>
+  <input type="text" id="searchInput" placeholder="Enter keywords...">
+  <button id="searchButton">Search</button>
+  <table>
+    <thead>
+      <tr>
+        <th>Keyword</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody id="resultsContainer"></tbody>
+  </table>
+  <script src="popup.js"></script>
+</body>
+</html>
