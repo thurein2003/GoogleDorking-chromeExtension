@@ -30,8 +30,7 @@ This is a simple tool for searching Google using advanced search operators, also
 This project is a Google Dorking tool implemented as a Chrome extension. Google Dorking is a technique used to find specific information on the web using advanced search operators. The tool allows users to enter keywords and search for pages with matching keywords in their content or URLs.
 
 The extension provides a user-friendly interface where users can input keywords and easily perform Google Dorking searches. It also includes a table to display the search results, showing the keyword and its purpose.
-
-This project was developed as part of the CS50's Web Programming with Python and JavaScript course on edX. You can watch the video demo [here](https://youtu.be/Aj8Typ4e1a0?si=4oWNFrUsvt4A8yzQ).
+You can watch the video demo [here](https://youtu.be/Aj8Typ4e1a0?si=4oWNFrUsvt4A8yzQ).
 
 ## Developed By
 
