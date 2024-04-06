@@ -17,4 +17,4 @@ This is a simple tool for searching Google using advanced search operators, also
 
 ## Developed By
 
-- **Developer:** Thureinoo (GitHub: [Thureinoo](https://github.com/Thureinoo))
+- **Developer:** Thureinoo (GitHub: [Thureinoo](https://github.com/thurein2003))
