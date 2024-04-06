@@ -18,4 +18,3 @@ This is a simple tool for searching Google using advanced search operators, also
 ## Developed By
 
 - **Developer:** Thureinoo (GitHub: [Thureinoo](https://github.com/Thureinoo))
-- **Course:** CS50's Web Programming with Python and JavaScript by Harvard University on edX
