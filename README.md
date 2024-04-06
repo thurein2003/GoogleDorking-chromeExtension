@@ -3,8 +3,8 @@
 This is a simple tool for searching Google using advanced search operators, also known as Google Dorking, to find specific information on the web. It allows you to enter keywords and search for pages with matching keywords in their content or URLs.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Open the `index.html` file in your web browser to use the tool.
+1. Clone the repository: `git clone https://github.com/thurein2003/GoogleDorking-chromeExtension.git`
+2. Open the `popup.html` file in your web browser to use the tool.
 
 ## Adding to Chrome Extension
 1. Open Google Chrome and navigate to `chrome://extensions/`.
