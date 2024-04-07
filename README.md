@@ -1,6 +1,6 @@
 # Google Dorking Tool
 
-#### Video Demo: [Watch Video](https://youtu.be/jYqu2jYIKUo)
+#### Video Demo: [Watch Video](https://youtu.be/MBUkXWVR51I)
 
 ## Description:
 The Google Dorking Tool is a Chrome extension that enables users to perform advanced searches on Google using custom search operators, also known as Google Dorking. This tool simplifies the process of finding specific information on the web by allowing users to enter keywords and search for pages with matching content or URLs.
@@ -29,7 +29,7 @@ The Google Dorking Tool is a Chrome extension that enables users to perform adva
 - **File Type Search:** Find specific file types, such as Excel files or JavaScript files, using the `filetype:` operator.
 
 ## About:
-This project was developed as part of the CS50's Web Programming with Python and JavaScript course on edX. You can watch the video demo [here](https://youtu.be/jYqu2jYIKUo).
+This project was developed as part of the CS50's Web Programming with Python and JavaScript course on edX. You can watch the video demo [here](https://youtu.be/MBUkXWVR51I).
 
 ## Developer:
 - **Name:** Thureinoo
