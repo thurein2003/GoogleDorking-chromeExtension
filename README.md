@@ -1,5 +1,6 @@
 # Google Dorking Tool
 <img src="https://github.com/thurein2003/GoogleDorking-chromeExtension/assets/105615488/e232edcb-3efc-431e-95cc-4a1210a90a82" alt="image" width="400" height="300">
+
 #### Video Demo: [Watch Video](https://youtu.be/MBUkXWVR51I)
 
 ## Description:
