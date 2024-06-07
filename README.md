@@ -1,5 +1,5 @@
 # Google Dorking Tool
-
+<img src="https://github.com/thurein2003/GoogleDorking-chromeExtension/assets/105615488/e232edcb-3efc-431e-95cc-4a1210a90a82" alt="image" width="400" height="300">
 #### Video Demo: [Watch Video](https://youtu.be/MBUkXWVR51I)
 
 ## Description:
@@ -15,7 +15,6 @@ The Google Dorking Tool is a Chrome extension that enables users to perform adva
 3. Click on the "Load unpacked" button.
 4. Select the folder containing project files.
 5. The extension should now be added to Chrome. You can access it by clicking on its icon in the toolbar.
-![image](https://github.com/thurein2003/GoogleDorking-chromeExtension/assets/105615488/e232edcb-3efc-431e-95cc-4a1210a90a82)
 
 ## Usage:
 1. Enter keywords in the input field.
